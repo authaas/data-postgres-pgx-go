@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.1.1 - 2026-09-21
+#### Bug Fixes
+- flatten - (5c89049) - Nathan Blair
+
+- - -
+
 ## 0.1.0 - 2026-09-21
 #### Features
 - initial release - (c5d45b7) - Nathan Blair
